@@ -92,7 +92,7 @@ input::placeholder{
 .sub_btn{
     width:150px;
     height: 40px;
-    color: #fff;
+    color: rgb(245, 239, 239);
     background-color: #288acf;
     font-weight:bold ;
     font-size: large;
